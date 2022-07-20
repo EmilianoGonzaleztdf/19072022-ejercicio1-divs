@@ -1,10 +1,9 @@
 body {
   background-color: #f9f2ed;
-  background-size: contain;
   font-family: sans-serif;
 }
 h1 {
-  font: sans-serif;
+  font-family: sans-serif;
   font-size: 50px;
   text-align: center;
   color: black;
@@ -16,21 +15,21 @@ p {
   color: black;
 }
 img {
-  align-content: center;
+  align-content: center;  
   width: 300px;
   height: 300px;
 }
 .parrafo1 {
   font-family: sans-serif;
-  font-size: 2em;
-  list-style: none;
+  font-size: 2em; 
+  list-style: none; 
   border-radius: 25px;
   background: rgb(58, 176, 255);
   padding-top: 1em;
   padding-left: 1em;
   padding-right: 1em;
   padding-bottom: 1em;
-  width: 100%;
+  width: 100%; 
 }
 .parrafo2 {
   font-family: sans-serif;
