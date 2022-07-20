@@ -1,0 +1,82 @@
+body {
+  background-color: #f9f2ed;
+  background-size: contain;
+  font-family: sans-serif;
+}
+h1 {
+  font: sans-serif;
+  font-size: 50px;
+  text-align: center;
+  color: black;
+}
+p {
+  font: sans-serif;
+  font-size: 16px;
+  text-align: center;
+  color: black;
+}
+img {
+  align-content: center;
+  width: 300px;
+  height: 300px;
+}
+.parrafo1 {
+  font-family: sans-serif;
+  font-size: 2em;
+  list-style: none;
+  border-radius: 25px;
+  background: rgb(58, 176, 255);
+  padding-top: 1em;
+  padding-left: 1em;
+  padding-right: 1em;
+  padding-bottom: 1em;
+  width: 100%;
+}
+.parrafo2 {
+  font-family: sans-serif;
+  font-size: 2em;
+  list-style: none;
+  border-radius: 25px;
+  background: rgb(255, 181, 98);
+  padding-top: 1em;
+  padding-left: 1em;
+  padding-right: 1em;
+  padding-bottom: 1em;
+  width: 100%;
+}
+.parrafo3 {
+  font-family: sans-serif;
+  font-size: 2em;
+  list-style: none;
+  border-radius: 25px;
+  background: rgb(248, 116, 116);
+  padding-top: 1em;
+  padding-left: 1em;
+  padding-right: 1em;
+  padding-bottom: 1em;
+  width: 100%;
+}
+.parrafo4 {
+  font-family: sans-serif;
+  font-size: 2em;
+  list-style: none;
+  border-radius: 25px;
+  background: rgb(58, 176, 255);
+  padding-top: 1em;
+  padding-left: 1em;
+  padding-right: 1em;
+  padding-bottom: 1em;
+  width: 100%;
+}
+.parrafo5 {
+  font-family: sans-serif;
+  font-size: 2em;
+  list-style: none;
+  border-radius: 25px;
+  background: rgb(255, 181, 98);
+  padding-top: 1em;
+  padding-left: 1em;
+  padding-right: 1em;
+  padding-bottom: 1em;
+  width: 100%;
+}
